@@ -7,14 +7,9 @@ date: 2024-06-20
 
 ## Tools
 ### Local Development
-    - [[Tilt]]
-    - [[DevSpace]]
-    - [[Skaffold]]
     - [[Kind]]
     - [[Minikube]]
     - [[k3s]]
-    - [[k3d]]
-    - [[Telepresence]]
 
 ## References
 
