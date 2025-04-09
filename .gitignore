@@ -1,0 +1,7 @@
+# zk caching and filtering
+.zk/notebook.db
+
+
+# direnv
+.envrc
+.direnv/
