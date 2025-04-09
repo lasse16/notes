@@ -1,3 +1,10 @@
+---
+date: 2025-04-10
+tags: [ bash ]
+---
+
+# Checkinstall vs. `make install`
+
 Recently I went through the trouble of installing `tree-sitter`.
 During that process, I used `sudo make install` only to uninstall it again later.
 But uninstalling wasn't as easy as running `sudo make uninstall`.
@@ -17,7 +24,6 @@ This package creates a `*.deb` file from a Makefile, which can then be installed
 This results in the package listed in the registry and also an uninstall-process supervised by the package manager instead of me.
 
 
-
-REFERENCES:
+## References:
 [StackOverflow Post](https://stackoverflow.com/questions/1439950/whats-the-opposite-of-make-install-i-e-how-do-you-uninstall-a-library-in-li)
 [Wiki-Entry checkinstall](https://wiki.ubuntuusers.de/checkinstall/)

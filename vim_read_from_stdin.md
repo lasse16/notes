@@ -1,3 +1,10 @@
+---
+date: 2025-04-10
+tags: [neovim]
+---
+
+# Vim from standard input
+
 There is a flag for vim which opens text from STDIN.
 `vim -` 
 That's it. 

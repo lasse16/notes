@@ -1,5 +1,6 @@
 ---
 tags: [ website, blog ]
+date: 2025-04-10
 ---
 
 # Personal blog setup

@@ -1,3 +1,10 @@
+---
+date: 2025-04-10
+tags: []
+---
+
+# Neovim Treesitter Highlight Groups
+
 Neovim and Treesitter are married with the [nvim-treesitter]() plugin.
 
 This plugin defines several modules, that handle highlighting, indenting and folding of text.

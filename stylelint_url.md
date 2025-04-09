@@ -1,3 +1,10 @@
+---
+date:2025-04-10
+tags: [ web ]
+---
+
+# Stylelint
+
 [Stylelint](https://stylelint.io) does not provide an error code for their warnings.
 Instead, it shows a string, which can be attached to [https://stylelint.io/user-guide/rules/list/](https://stylelint.io/user-guide/rules/list/) for additional explanation.
 

@@ -1,3 +1,10 @@
+---
+date: 2025-04-10
+tags: [ neovim ]
+---
+
+# Pynvim and virtual environments
+
 Deoplete requires pynvim installed, this fails with virtual environments. The package needs to be reinstalled.
 There is no option in the plugin itself to use the global installation of pynvim. There is however an option to create 
 virtual environments with reference to the global packages `python -m venv --system-site-packages {VENV-PATH}`.

@@ -1,3 +1,8 @@
+---
+date: 2025-04-10
+tags: [ markdown ]
+---
+
 # Readme formatting with HTML
 
 Github allows for HTML code inside a projects rendered `README.md` file.

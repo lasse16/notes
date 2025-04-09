@@ -1,5 +1,6 @@
 ---
-tags: neovim,git,gpg
+date: 2025-04-10
+tags: [ neovim, git, gpg ]
 ---
 # Signed commits in Neovim
 
