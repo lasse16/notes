@@ -9,3 +9,6 @@ list:
 
 edit:
 	zk edit --interactive
+
+tags:
+	zk tags --no-input
