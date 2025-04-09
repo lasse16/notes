@@ -4,6 +4,7 @@ default:
 
 new +name:
 	zk new --no-input --title "{{name}}"
+
 list:
 	zk list --format oneline
 
