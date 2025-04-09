@@ -1,4 +1,4 @@
-Rececntly I went through the trouble of installing `tree-sitter`.
+Recently I went through the trouble of installing `tree-sitter`.
 During that process, I used `sudo make install` only to uninstall it again later.
 But uninstalling wasn't as easy as running `sudo make uninstall`.
 That command does work if and only if the authors provide an UNINSTALL file.
