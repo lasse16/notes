@@ -12,4 +12,4 @@ edit:
 	zk edit --interactive
 
 tags:
-	zk tags --no-input
+	zk tag --no-input

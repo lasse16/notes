@@ -22,6 +22,11 @@ Inspiration:
 <https://cert-manager.io/docs/>
 <https://github.com/gruberdev/homelab>
 
+## More
+
+Wanted to setup pocket-id, but it required a secure context, so a reverse proxy and certificate must be first.
+Certificates mean [[cert-manager]] and reverse proxy means [[kubernetes-ingress-controller]].
+Ingress controller require full-cluster access which is usually done by a custom role.
 
 
 
