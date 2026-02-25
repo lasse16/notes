@@ -12,6 +12,8 @@ I find myself often needing to see the proper explanation and looking for a hotk
 
 `Rusteacean.nvim` provides a command `:RustLSP openDocs` to view the remote website for diagnostics.
 
+<https://github.com/chrisgrieser/nvim-rulebook> does support this :D
+
 ## Known remote websites
 
 ### Rumdl
