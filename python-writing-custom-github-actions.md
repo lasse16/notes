@@ -8,7 +8,7 @@ tags: [ python, github, todo ]
 General stuff for custom Container Actions still applies.
 See [[rust-writing-github-actions]] for details.
 
-- only possible as container action
+- only possible as container action ( Python is pre-installed on the runners, so a stand-alone script can also be an option)
 
 - probably best with a typed API client, like [PyGithub][pygithub].
 
@@ -25,6 +25,13 @@ See [[rust-writing-github-actions]] for details.
 This can be done by making them generic with `@overload` and the [typing python module][python-typing].
 Use `Type`,`Any`,`TypeVar` and more.
 
+## CI/CD
+
+Actions can be used as a pre-built container or from the Dockerfile.
+
+But for both ways, there is still the option to setup the typical CI pipelines with testing, linting etc. in python
+See the github starters and [docs for common examples][python-ci-examples].
+
 ## References
 
 [Official PyGithub docs][pygithub]
@@ -32,3 +39,4 @@ Use `Type`,`Any`,`TypeVar` and more.
 
 [pygithub]: <https://github.com/PyGithub/PyGithub>
 [python-typing]: <https://docs.python.org/3.14/library/typing.html>
+[python-ci-examples]: <https://docs.github.com/en/actions/tutorials/build-and-test-code/python>

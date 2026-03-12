@@ -12,6 +12,11 @@ tags: [ rust, github, todo, nix ]
 ## Rust
 
 - GH API requests via [OctoCrab][octocrab]
+- Helper library with [42ByteLabs/ghactions][actions-helper-library]
+    offers an Actions struct and derive macros to go from struct field to input when generating the `action.yml`
+    can generate `action.yml`
+    initialises a logger with syntax and macros for github actions ( logger originally comes from [log crate](https://docs.rs/log/latest/log/) ) -- <https://docs.rs/ghactions/latest/ghactions/fn.init_logger.html>
+        log level can be parsed from string -- <https://docs.rs/log/latest/log/enum.Level.html#impl-FromStr-for-Level>
 
 ## Nix
 
@@ -46,6 +51,13 @@ tags: [ rust, github, todo, nix ]
 
 <https://mitchellh.com/writing/nix-with-dockerfiles>
 
+#### Hosting Docker image reachable by Actions
+
+[Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages) have the advantage that by specifying the `packages:read` permission, authentication for private Actions is handled.
+It has a Container registry available <https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry>.
+
+TODO: Is this to attach additional metadata ? <https://docs.github.com/en/code-security/concepts/supply-chain-security/linked-artifacts>
+
 ## References
 
 - [Octocrab: Typed API interactions for Github][octocrab]
@@ -56,3 +68,4 @@ tags: [ rust, github, todo, nix ]
 [octocrab]: <https://crates.io/crates/octocrab>
 [dockerfile-actions]: <https://docs.github.com/en/actions/reference/workflows-and-actions/dockerfile-support>
 [skopeo]: <https://github.com/containers/skopeo>
+[actions-helper-library]: <https://github.com/42ByteLabs/ghactions>

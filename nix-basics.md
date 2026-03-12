@@ -5,6 +5,11 @@ tags: [ nix, todo ]
 
 # Nix: Basics
 
+## Github Actions
+
+- <https://nix.dev/guides/recipes/continuous-integration-github-actions#github-actions>
+- <https://garnix.io/>
+
 ## Python
 
 - <https://nixos.org/manual/nixpkgs/stable/#python>
