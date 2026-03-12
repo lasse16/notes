@@ -17,3 +17,7 @@ edit:
 # List all tags in use
 tags:
     zk tag --no-input
+
+# Full-text search across notes including title, metadata and body
+full-text:
+    zk list --format oneline -i
