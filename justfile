@@ -7,8 +7,19 @@ new +name:
     zk new --no-input --title "{{ name }}"
 
 # Create a new note tracking a website
-new-site +name:
-    zk new --no-input --title "{{ name }}" --template website.md
+new-site url *name:
+    #!/usr/bin/env bash
+    URL={{ url }}
+    TITLE="{{ name }}"
+    if [ -z "$TITLE" ]; then
+        TITLE=$(curl -Ls $URL | rg -oP '(?<=<title>).*?(?=</title>)')
+        if [ -z "$TITLE" ]; then
+            echo "Warning: Could not extract title from webpage, using URL as title"
+            TITLE="$URL"
+        fi
+    fi
+
+    zk new --no-input --title "$TITLE" --template website.md --extra url="$URL"
 
 # List all notes
 list:
