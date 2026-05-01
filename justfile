@@ -6,6 +6,10 @@ default:
 new +name:
     zk new --no-input --title "{{ name }}"
 
+# Create a new note tracking a website
+new-site +name:
+    zk new --no-input --title "{{ name }}" --template website.md
+
 # List all notes
 list:
     zk list --format oneline
