@@ -12,7 +12,7 @@ This allows me to take notes in Neovim, while templating, filtering and more fea
 At the moment, my notes are all markdown files, with Wikilinks `[[link_target]]` between them.
 This does not make for the best explorability, and while I will never switch away from note-taking in Neovim and markdown, having a nicely rendered graph and website might be targets for future features.
 
-There is [Quartz](https://quartz.jzhao.xyz/), a SSG, that renders markdown notes as a wiki.
+There is [Quartz](https://quartz.jzhao.xyz/), a [Static-site generator](static-site-generator), that renders markdown notes as a wiki.
 It is targeted directly at note-wikis and might be the best solution for me currently.
 But it is a Node.JS tool with components configured in TypeScript.
 
