@@ -36,3 +36,16 @@ tags:
 # Full-text search across notes including title, metadata and body
 full-text:
     zk list --format oneline -i
+
+# Run several checks on all notes
+@housekeeping:
+    echo "NOTEBOOK Housekeeping"
+    echo "---------------------"
+    echo "Untagged notes:"
+    zk list --tagless --format path --no-pager --quiet
+    echo ""
+    echo "Dead links:"
+    zk dead-links
+    echo ""
+    echo "Potential links:"
+    zk list --quiet --format path --delimiter0 $@ | xargs -0 zk unlinked-mentions
