@@ -7,7 +7,7 @@ tags: [ graphics ]
 
 A way to describe images and graphics, in which the necessary stroke elements are tracked and their layering creates the final image.
 
-In comparison to [[raster graphics]], these are lossless scalable.
+In comparison to [Raster graphics](raster-graphics), these are lossless scalable.
 
 ## References
 

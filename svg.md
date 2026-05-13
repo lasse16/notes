@@ -6,7 +6,7 @@ aliases: [ "SVG", "scalable vector graphics" ]
 
 # SVG: Scalable vector graphics
 
-A [XML: Extensible Markup language](xml) format for describing two-dimensional [[vector graphics]].
+A [XML: Extensible Markup language](xml) format for describing two-dimensional [Vector graphics](vector-graphics).
 
 Its images are lossless scalable, if configured correctly.
 
