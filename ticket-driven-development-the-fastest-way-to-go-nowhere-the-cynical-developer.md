@@ -1,6 +1,6 @@
 ---
 date: 2026-05-18
-tags: [ website, todo, cat3 ]
+tags: [ website, agile ]
 url: https://thecynical.dev/posts/ticket-driven-development/
 ---
 
