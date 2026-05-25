@@ -4,3 +4,5 @@ template = "default.md"
 [tool]
 [filter]
 [alias]
+[format.markdown]
+link-format = "wiki"
