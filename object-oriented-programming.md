@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ glossary ]
+tags: [ glossary, object-oriented-programming ]
 aliases: [ "object oriented design", "oop",  "ood", "OOP", "OOD"]
 ---
 
