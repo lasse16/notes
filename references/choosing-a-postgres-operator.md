@@ -1,6 +1,6 @@
 ---
 date: 2026-06-07
-tags: [ website, postgresql, kubernetes, todo ]
+tags: [website, postgresql, kubernetes, todo, reference]
 url: https://blog.nuvotex.de/choosing-a-postgres-operator/?utm_source=perplexity
 ---
 

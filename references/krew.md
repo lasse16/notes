@@ -1,6 +1,6 @@
 ---
 date: 2026-05-13
-tags: [ website, kubernetes, cli ]
+tags: [website, kubernetes, cli, reference]
 url: https://krew.sigs.k8s.io/
 ---
 

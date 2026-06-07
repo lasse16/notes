@@ -1,6 +1,6 @@
 ---
 date: 2026-05-18
-tags: [ website, cli, rust ]
+tags: [website, cli, rust, reference]
 url: https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/
 ---
 

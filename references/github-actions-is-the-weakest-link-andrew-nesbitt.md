@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, todo, github, github-actions ]
+tags: [website, todo, github, github-actions, reference]
 url: https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html
 ---
 

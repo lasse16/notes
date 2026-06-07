@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, text-search ]
+tags: [website, text-search, reference]
 url: https://turbopuffer.com/
 ---
 

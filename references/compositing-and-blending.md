@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, todo, webdev ]
+tags: [website, todo, webdev, reference]
 url: https://nik.digital/posts/compositing-blending
 ---
 

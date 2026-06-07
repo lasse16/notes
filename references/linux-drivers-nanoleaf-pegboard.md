@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ website, linux ]
+tags: [website, linux, reference]
 url: https://crescentro.se/posts/writing-drivers/
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ website, epaper, diy ]
+tags: [website, epaper, diy, reference]
 url: https://trmnl.com/
 ---
 

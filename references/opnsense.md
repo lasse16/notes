@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, opnsense, network ]
+tags: [website, opnsense, network, reference]
 url: https://opnsense.org/
 ---
 

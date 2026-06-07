@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, todo, email ]
+tags: [website, todo, email, reference]
 url: https://samkhawase.com/blog/email-is-crazy/
 ---
 

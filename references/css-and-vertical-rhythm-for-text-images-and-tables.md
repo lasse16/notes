@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14
-tags: [ website, css, webdev, design ]
+tags: [website, css, webdev, design, reference]
 url: https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-06-07
-tags: [ website, kubernetes, postgresql ]
+tags: [website, kubernetes, postgresql, reference]
 url: https://cloudnative-pg.io/
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, svg ]
+tags: [website, svg, reference]
 url: https://muffin.ink/blog/scratch-svg-sanitization/
 ---
 

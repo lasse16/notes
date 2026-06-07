@@ -1,6 +1,6 @@
 ---
 date: 2026-05-05
-tags: [ website, bash, http ]
+tags: [website, bash, http, reference]
 url: https://justuse.org/curl/
 ---
 

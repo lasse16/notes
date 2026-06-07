@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04
-tags: [ website, todo, cat3 ]
+tags: [website, todo, cat3, reference]
 url: https://billylevin.dev/posts/clippy-config/
 ---
 

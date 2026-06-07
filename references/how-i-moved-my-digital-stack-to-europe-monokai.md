@@ -1,6 +1,6 @@
 ---
 date: 2026-06-07
-tags: [ website, digital-sovereignty ]
+tags: [website, digital-sovereignty, reference]
 url: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/
 ---
 

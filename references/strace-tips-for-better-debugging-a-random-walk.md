@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ website, todo, cat3 ]
+tags: [website, todo, cat3, reference]
 url: https://blog.functor.in/2025/06/13/strace-tips-for-better-debugging/
 ---
 

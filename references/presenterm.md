@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, cli, markdown ]
+tags: [website, cli, markdown, reference]
 url: https://mfontanini.github.io/presenterm/introduction.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14
-tags: [ website, cookies ]
+tags: [website, cookies, reference]
 url: https://sinceyouarrived.world/taken
 ---
 

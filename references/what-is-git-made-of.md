@@ -1,6 +1,6 @@
 ---
 date: 2026-06-07
-tags: [ website, git ]
+tags: [website, git, reference]
 url: https://zserge.com/posts/git/
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ website,  css, color-theory ]
+tags: [website, css, color-theory, reference]
 url: https://gomakethings.com/generative-colors-with-css/
 ---
 

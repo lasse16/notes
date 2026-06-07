@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-tags: [ website, design ]
+tags: [website, design, reference]
 url: https://slipway.co/
 ---
 

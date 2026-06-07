@@ -1,6 +1,6 @@
 ---
 date: 2026-05-18
-tags: [ website, opengraph ]
+tags: [website, opengraph, reference]
 url: https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/
 ---
 

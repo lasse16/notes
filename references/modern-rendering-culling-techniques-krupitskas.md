@@ -1,6 +1,6 @@
 ---
 date: 2026-05-05
-tags: [ website, todo, graphics ]
+tags: [website, todo, graphics, reference]
 url: https://krupitskas.com/posts/modern_culling_techniques/
 ---
 

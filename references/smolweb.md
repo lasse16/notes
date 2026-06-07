@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01
-tags: [ website, webdev ]
+tags: [website, webdev, reference]
 url: https://smolweb.org/
 ---
 
