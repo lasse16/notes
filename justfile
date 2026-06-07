@@ -19,7 +19,7 @@ new-site url *name:
         fi
     fi
 
-    zk new --no-input --title "$TITLE" --template website.md --extra url="$URL"
+    zk new --no-input --title "$TITLE" --template website.md --extra url="$URL" references/
 
 # List all notes
 list:
