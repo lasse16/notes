@@ -49,3 +49,6 @@ full-text:
     echo ""
     echo "Potential links:"
     zk list --quiet --format path --delimiter0 $@ | xargs -0 zk unlinked-mentions
+    echo ""
+    echo "Unfinished notes"
+    zk list --tag "todo"
