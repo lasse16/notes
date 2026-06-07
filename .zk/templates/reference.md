@@ -1,7 +1,6 @@
 ---
 date: {{format-date now "%Y-%m-%d" }}
-tags: [ website, reference, todo, cat3 ]
-url: {{ extra.url }}
+tags: [ reference, todo, cat3 ]
 ---
 
 # {{title}}
@@ -9,5 +8,3 @@ url: {{ extra.url }}
 {{content}}
 
 ## References
-
-<{{extra.url}}>

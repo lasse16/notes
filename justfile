@@ -6,6 +6,10 @@ default:
 new +name:
     zk new --no-input --title "{{ name }}"
 
+# Create a new reference note (non-website) with a given title
+new-ref +name:
+    zk new --no-input --title "{{ name }}" --template reference.md references/
+
 # Create a new note tracking a website
 new-site url *name:
     #!/usr/bin/env bash
@@ -19,7 +23,7 @@ new-site url *name:
         fi
     fi
 
-    zk new --no-input --title "$TITLE" --template website.md --extra url="$URL"
+    zk new --no-input --title "$TITLE" --template website.md --extra url="$URL" references/
 
 # List all notes
 list:
