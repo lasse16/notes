@@ -6,3 +6,6 @@ template = "default.md"
 [alias]
 [format.markdown]
 link-format = "wiki"
+
+[group.references]
+paths = [ "references/*" ]
