@@ -1,6 +1,6 @@
 ---
 date: 2026-05-05
-tags: [ git ]
+tags: [ git, version-control-system ]
 ---
 
 # Git: Version control system
