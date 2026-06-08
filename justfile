@@ -10,6 +10,10 @@ new +name:
 new-ref +name:
     zk new --no-input --title "{{ name }}" --template reference.md references/
 
+# Create a new glossary entry with a given title
+new-glossary +name:
+    zk new --no-input --title "{{ name }}" --template glossary.md glossary/
+
 # Create a new note tracking a website
 new-site url *name:
     #!/usr/bin/env bash
