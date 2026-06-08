@@ -17,10 +17,11 @@ Setup:
 [[glance]] dashboard as home page
 
 Inspiration:
-<pocket-id.io>
+<https://pocket-id.io>
 <https://github.com/louislam/uptime-kuma>
 <https://cert-manager.io/docs/>
 <https://github.com/gruberdev/homelab>
+[various client examples with pocket id](https://pocket-id.org/docs/client-examples)
 
 ## More
 
@@ -28,8 +29,6 @@ Wanted to setup pocket-id, but it required a secure context, so a reverse proxy 
 Certificates mean [[cert-manager]] and reverse proxy means [[kubernetes-ingress-controller]].
 Ingress controller require full-cluster access which is usually done by a custom role.
 
-
-
-
 ## References
+
 [Xe Iaso's overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
