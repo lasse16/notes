@@ -9,3 +9,6 @@ link-format = "wiki"
 
 [group.references]
 paths = [ "references/*" ]
+
+[group.glossary]
+paths = [ "glossary/*" ]
