@@ -1,4 +1,5 @@
 ---
+type: Note
 categories: [ ruby ]
 date: 2024-07-08
 ---

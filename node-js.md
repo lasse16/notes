@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-04
 tags: [ web, typescript, javascript ]
 aliases: [ "nodejs", "node" ]

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-04
 tags: [ jekyll, static-site-generator, web, markdown, github-pages, github ]
 ---

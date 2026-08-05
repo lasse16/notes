@@ -1,4 +1,5 @@
 ---
+type: Note
 tags: [kubernetes, todo]
 date: 2025-04-10
 ---

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-06-07
 tags: [ go-lang ]
 aliases: ["Go", "Golang"]

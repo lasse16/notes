@@ -1,4 +1,5 @@
 ---
+type: Note
 tags: [ cloud-native ]
 date: 2024-06-20
 ---

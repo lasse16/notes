@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-06-09
 tags: [ kubernetes, kubernetes-storage, todo ]
 ---

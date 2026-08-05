@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2025-12-30
 tags: [ rust ]
 ---

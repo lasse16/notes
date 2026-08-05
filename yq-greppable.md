@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-02-16
 tags: [cli, yaml, yq]
 ---

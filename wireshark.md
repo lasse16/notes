@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-15
 tags: [ linux, usb ]
 ---

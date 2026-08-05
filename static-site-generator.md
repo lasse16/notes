@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-04
 tags: [ web, markdown ]
 aliases: ["static site generator", "SSG", "static-site generator"]

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-05
 tags: [ web, http, https ]
 aliases: [ "http", "https", "HTTP", "HTTPS", "hypertext transfer protocol"]

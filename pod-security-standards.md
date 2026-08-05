@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2025-06-10
 tags: [ kubernetes ]
 ---

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-04
 tags: [ raster_graphics ]
 aliases: [ "jpeg", "jpg", ".jpg", ".jpeg" ]

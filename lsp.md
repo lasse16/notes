@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-05
 tags: [ lsp ]
 aliases: ["language server", "language server protocol", "LSP", "lsp"]

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-04-28
 tags: [ crossplane, kubernetes, todo ]
 ---

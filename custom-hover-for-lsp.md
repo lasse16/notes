@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-02-19
 tags: [ cat1, cat2, cat3 ]
 ---

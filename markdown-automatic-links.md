@@ -1,4 +1,5 @@
 ---
+type: Note
 categories: [ markdown ]
 date: 2024-07-19
 ---

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2025-04-03
 categories: [ kubernetes talos-os ]
 ---

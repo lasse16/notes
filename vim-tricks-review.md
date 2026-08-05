@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-01-12
 tags: [ vim, neovim, git ]
 ---

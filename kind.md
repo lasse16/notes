@@ -1,4 +1,5 @@
 ---
+type: Note
 tags: [kubernetes,todo]
 ---
 

@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-04-18
 tags: [ homelab, postgresql, longhorn, kubernetes ]
 ---

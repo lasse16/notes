@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-06-08
 tags: [ open-telemetry, observability ]
 aliases: [ open-telemetry, Open Telemetry ]

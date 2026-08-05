@@ -1,4 +1,5 @@
 ---
+type: Note
 tags: [ git ]
 date: 2024-06-18
 ---

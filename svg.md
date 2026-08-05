@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-04
 tags: [ svg, graphics ]
 aliases: [ "SVG", "scalable vector graphics" ]

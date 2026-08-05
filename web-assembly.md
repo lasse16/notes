@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-15
 tags: [ webdev ]
 aliases: ["Web assembly", "web-assembly", "wasm", "Wasm"]

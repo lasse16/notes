@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-05-20
 tags: [ github, github-actions ]
 ---

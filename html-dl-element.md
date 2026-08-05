@@ -1,4 +1,5 @@
 ---
+type: Note
 date: 2026-06-20
 tags: [ html, webdev ]
 ---
