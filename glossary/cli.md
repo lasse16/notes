@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-05-13
 tags: [ cli, glossary ]
 aliases: ["CLI", "Command line interface"]

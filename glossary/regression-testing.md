@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-05-05
 tags: [ testing, glossary ]
 ---

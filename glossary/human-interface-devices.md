@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-05-15
 tags: [ usb, glossary ]
 aliases: ["HID", "human interface device", "human interface devices"]

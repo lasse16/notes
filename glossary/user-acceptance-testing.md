@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-06-16
 tags: [ glossary, testing ]
 aliases: ["uat", "UAT"]

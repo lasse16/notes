@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-06-08
 tags: [ glossary, cat2 ]
 aliases: ["vcs", "VCS"]

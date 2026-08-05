@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-05-30
 tags: [ todo,object-oriented-programming, glossary ]
 ---

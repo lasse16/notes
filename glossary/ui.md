@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-06-07
 tags: [ glossary, ui ]
 aliases: [ ui, user-interface ]

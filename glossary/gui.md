@@ -1,4 +1,5 @@
 ---
+type: GlossaryEntry
 date: 2026-06-07
 tags: [ glossary, grapics ]
 aliases: [ gui, GUI, grapical user interface ]
