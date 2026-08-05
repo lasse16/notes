@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: {{format-date now "%Y-%m-%d" }}
 tags: [ website, reference, todo, cat3 ]
 url: {{ extra.url }}

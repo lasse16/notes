@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: {{format-date now "%Y-%m-%d" }}
 tags: [ reference, todo, cat3 ]
 ---
