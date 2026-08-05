@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-07
 tags: [website, reference]
 url: https://www.goeuropean.org/#products-list

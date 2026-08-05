@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-01
 tags: [website, todo, webdev, css, reference]
 url: https://piccalil.li/blog/the-end-of-responsive-images/

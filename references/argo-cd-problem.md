@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, gitops, kubernetes ]
 url: https://medium.com/@zxc0905fghasd/why-argo-cd-wasnt-enough-real-gitops-pain-and-the-tools-that-fixed-it-53f705b9bcce

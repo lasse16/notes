@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, treesitter, cli ]
 url: https://tree-sitter.github.io/tree-sitter/3-syntax-highlighting.html

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-07
 tags: [website, github-actions, reference]
 url: https://github.com/bahdotsh/wrkflw?ref=terminaltrove

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-01
 tags: [website, webdev, typography, reference]
 url: https://modernfontstacks.com/

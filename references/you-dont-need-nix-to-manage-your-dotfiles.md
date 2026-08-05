@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, nix, todo ]
 url: https://jade.fyi/blog/use-nix-less/

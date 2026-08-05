@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, observability, open-telemetry ]
 url: https://signoz.io/opentelemetry/

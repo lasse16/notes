@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, todo, object-storage, reference]
 url: https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/

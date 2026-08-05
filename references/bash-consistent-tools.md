@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, todo, cli, bash, reference]
 url: https://www.netmeister.org/blog/consistent-tools.html

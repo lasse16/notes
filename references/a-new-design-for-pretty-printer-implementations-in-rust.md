@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, rust ]
 url: https://blog.wybxc.cc/blog/pretty-printer-pye/

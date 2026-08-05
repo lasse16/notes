@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, niri, desktop-environment ]
 url: https://github.com/niri-wm/niri

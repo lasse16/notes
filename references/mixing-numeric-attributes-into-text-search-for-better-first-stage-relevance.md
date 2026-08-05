@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-01
 tags: [website, todo, text-search, reference]
 url: https://turbopuffer.com/blog/rank-by-attribute

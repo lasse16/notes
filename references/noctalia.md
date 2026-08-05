@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, desktop-environment ]
 url: https://noctalia.dev/

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-15
 tags: [website, todo, cat3, reference]
 url: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/

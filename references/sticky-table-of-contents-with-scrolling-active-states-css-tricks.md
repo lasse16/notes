@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, design, webdev ]
 url: https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/

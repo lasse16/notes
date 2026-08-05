@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-01
 tags: [website, todo, git, reference]
 url: https://gitperf.com/

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-07
 tags: [website, todo, platform-engineering, reference]
 url: https://platformengineering.org/blog/transforming-optimization-into-an-invisible-platform-capability

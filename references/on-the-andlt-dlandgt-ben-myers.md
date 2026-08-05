@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-20
 tags: [ website, reference, html, webdev ]
 url: https://benmyers.dev/blog/on-the-dl/

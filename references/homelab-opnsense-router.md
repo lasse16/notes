@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-01
 tags: [website, homelab, opnsense, todo, reference]
 url: https://clintonboys.com/projects/homelab/04-router/

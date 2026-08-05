@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, jujutsu ]
 url: https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs

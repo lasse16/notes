@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-15
 tags: [website, rust, testing, reference]
 url: https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code

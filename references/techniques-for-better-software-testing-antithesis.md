@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-04
 tags: [website, testing, python, todo, reference]
 url: https://antithesis.com/docs/resources/testing_techniques/

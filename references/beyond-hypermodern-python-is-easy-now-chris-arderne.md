@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, python, reference]
 url: https://rdrn.me/postmodern-python/

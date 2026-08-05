@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-18
 tags: [website, epaper, diy, reference]
 url: https://thelibre.news/i-made-the-ultimate-productivity-device/

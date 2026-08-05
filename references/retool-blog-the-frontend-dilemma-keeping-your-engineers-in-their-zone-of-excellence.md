@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, front-end, webdev ]
 url: https://retool.com/blog/frontend-dilemma?rcid=701Qo00000nPCwDIAW

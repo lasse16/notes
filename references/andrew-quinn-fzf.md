@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-15
 tags: [ website, reference, todo, cat3 ]
 url: https://andrew-quinn.me/fzf/

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, todo, rust, reference]
 url: https://hamy.xyz/blog/2026-01_high-level-rust

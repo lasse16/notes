@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, homelab, kubernetes, secrets ]
 url: https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/

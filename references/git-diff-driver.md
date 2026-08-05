@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, todo, git, reference]
 url: https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/

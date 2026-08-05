@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-12
 tags: [ website, reference, nix ]
 url: https://www.nixhub.io/

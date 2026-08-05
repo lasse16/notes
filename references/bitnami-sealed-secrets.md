@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, kubernetes, gitops, secrets ]
 url: https://github.com/bitnami-labs/sealed-secrets

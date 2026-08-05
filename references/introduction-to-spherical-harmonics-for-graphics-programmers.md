@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-05
 tags: [website, todo, grapics, reference]
 url: https://gpfault.net/posts/sph.html

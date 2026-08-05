@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-15
 tags: [website, html, reference]
 url: https://shkspr.mobi/blog/2026/01/maximally-semantic-structure-for-a-blog-post/

@@ -1,4 +1,5 @@
 ---
+type: Reference
 tags: [website, blog, reference]
 date: 2025-04-10
 ---

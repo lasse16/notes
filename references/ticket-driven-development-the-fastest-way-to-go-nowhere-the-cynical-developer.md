@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-18
 tags: [website, agile, reference]
 url: https://thecynical.dev/posts/ticket-driven-development/

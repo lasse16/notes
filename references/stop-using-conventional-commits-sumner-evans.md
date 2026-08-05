@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, todo, cat3 ]
 url: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/

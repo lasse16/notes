@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-09
 tags: [ website, reference, neovim, neovim-0.12 ]
 url: https://neovim.io/doc/user/news-0.12/#news-0.12

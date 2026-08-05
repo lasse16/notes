@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-14
 tags: [website, cookies, reference]
 url: https://sinceyouarrived.world/taken

@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, homelab, kubernetes ]
 url: https://www.jonashietala.se/blog/2026/05/05/planning_my_kubernetes_homelab/

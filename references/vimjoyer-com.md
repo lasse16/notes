@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-07
 tags: [website, nix, nixos, reference]
 url: https://www.vimjoyer.com/

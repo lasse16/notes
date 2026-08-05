@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-15
 tags: [website, todo, cat3, reference]
 url: https://emirb.github.io/blog/microvm-2026/

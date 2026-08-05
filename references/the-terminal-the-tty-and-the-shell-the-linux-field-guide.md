@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-09
 tags: [ website, reference, bash, cli ]
 url: https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/

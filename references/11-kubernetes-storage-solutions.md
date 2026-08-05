@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-06-08
 tags: [ website, reference, kubernetes, kubernetes-storage ]
 url: https://overcast.blog/11-kubernetes-storage-solutions-you-should-know-8b22ee51c62f

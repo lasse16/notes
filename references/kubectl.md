@@ -1,4 +1,5 @@
 ---
+type: Reference
 date: 2026-05-13
 tags: [website, kubernetes, reference]
 url: https://kubernetes.io/docs/reference/kubectl/
