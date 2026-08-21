@@ -29,6 +29,10 @@ new-site url *name:
 
     zk new --no-input --title "$TITLE" --template website.md --extra url="$URL" references/
 
+# AI-ingest a website reference using Copilot CLI
+ai-ingest url:
+    copilot --allow-url "{{ url }}" -i "/ingest-reference {{ url }}"
+
 # List all notes
 list:
     zk list --format oneline
