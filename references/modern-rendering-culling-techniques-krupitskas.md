@@ -7,7 +7,7 @@ url: https://krupitskas.com/posts/modern_culling_techniques/
 
 # Modern rendering culling techniques | krupitskas
 
-A blog post about [render culling](render-culling) techniques.
+A blog post about [[render-culling|render culling]] techniques.
 
 ## References
 

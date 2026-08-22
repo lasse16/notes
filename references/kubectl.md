@@ -15,7 +15,7 @@ These contexts are per default stored in `~/.kube/config`.
 Contexts can be switched via `kubectl config use-context <context-name>`.
 I do this via [[direnv]] at `$WORK`.
 
-Custom subcommands can also be created, see my note about [kubectl: custom subcommands](kubectl-custom-subcommands).
+Custom subcommands can also be created, see my note about [[kubectl-custom-subcommands|kubectl: custom subcommands]].
 
 ## References
 

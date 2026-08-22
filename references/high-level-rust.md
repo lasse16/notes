@@ -7,7 +7,7 @@ url: https://hamy.xyz/blog/2026-01_high-level-rust
 
 # High-Level Rust: Getting 80% of the Benefits with 20% of the Pain
 
-Development techniques for [Rust](rust-lang) and where it is best used.
+Development techniques for [[rust-lang|Rust]] and where it is best used.
 
 ## References
 

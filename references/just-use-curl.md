@@ -7,7 +7,7 @@ url: https://justuse.org/curl/
 
 # Just use cURL
 
-A set of command examples on how to use `curl` to replace any [http](http) client.
+A set of command examples on how to use `curl` to replace any [[http]] client.
 
 ## Examples
 

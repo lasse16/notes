@@ -7,7 +7,7 @@ url: https://slipway.co/
 
 # Slipway
 
-This is a design framework for creating components with [web-assembly](web-assembly).
+This is a design framework for creating components with [[web-assembly]].
 
 ## References
 

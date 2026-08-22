@@ -7,7 +7,7 @@ url: https://gpfault.net/posts/sph.html
 
 # Introduction to Spherical Harmonics for Graphics Programmers
 
-A blog post about [Sperical Harmonics](sperical-harmonics).
+A blog post about [[sperical-harmonics|Sperical Harmonics]].
 
 ## References
 

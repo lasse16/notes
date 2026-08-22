@@ -9,7 +9,7 @@ url: https://crescentro.se/posts/writing-drivers/
 
 This is a blog post about writing a driver for a NanoLeaf Pegboard for Linux.
 
-The driver was written in [Rust](rust-lang), and reverse-engineered from the windows driver as described in [Using Wireshark to reverse-engineer a USB device](using-wireshark-to-reverse-engineer-usb).
+The driver was written in [[rust-lang|Rust]], and reverse-engineered from the windows driver as described in [Using Wireshark to reverse-engineer a USB device](using-wireshark-to-reverse-engineer-usb).
 
 ## References
 

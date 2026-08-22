@@ -7,21 +7,21 @@ url: https://rdrn.me/postmodern-python/
 
 # Beyond Hypermodern: Python is easy now - Chris Arderne
 
-This blog post is a collection of modern tooling for [Python](python).
+This blog post is a collection of modern tooling for [[python|Python]].
 
 These tools are:
 
-- [uv](uv) for project and dependency management
-- [ruff](ruff) for linting
-- [pyright](pyright) for type hinting
-- [pytest](pytest) for testing
-- [poe the poet](poe-the-poet) for task running
+- [[uv]] for project and dependency management
+- [[ruff]] for linting
+- [[pyright]] for type hinting
+- [[pytest]] for testing
+- [[poe-the-poet|poe the poet]] for task running
 
 Across all these tools, the `pyproject.toml` configuration file is the default location for any customization.
 
 In general, the post also recommends to set up as many type hints and docstrings as possible, since autocompletion depends on it.
 
-## [UV](uv) details
+## [[uv|UV]] details
 
 Use this section to make the package runnable without calling it via `python -m <package>`
 
@@ -39,7 +39,7 @@ package = true
 
 ```
 
-## [Ruff](ruff) details
+## [[ruff|Ruff]] details
 
 ```toml
 [tool.ruff]

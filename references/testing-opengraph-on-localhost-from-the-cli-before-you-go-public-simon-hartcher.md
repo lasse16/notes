@@ -11,7 +11,7 @@ A blog post about testing OpenGraph tags without having a public url available.
 
 It is talking about a custom tool, `og:check`, distributed as part of <https://github.com/deevus/neutils>.
 
-The resulting card is rendered in terminal, so the terminal does need the [Kitty graphics protocol](kitty-graphics-protocol).
+The resulting card is rendered in terminal, so the terminal does need the [[kitty-graphics-protocol|Kitty graphics protocol]].
 
 ## References
 

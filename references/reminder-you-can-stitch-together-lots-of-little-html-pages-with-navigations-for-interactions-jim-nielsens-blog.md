@@ -7,7 +7,7 @@ url: https://blog.jim-nielsen.com/2026/small-html-pages/
 
 # Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions - Jim Nielsen’s Blog
 
-A blog post about using links to navigate between sites and especially establishing a menu page with minimal [Javascript](javascript).
+A blog post about using links to navigate between sites and especially establishing a menu page with minimal [[javascript|Javascript]].
 
 This code snippet creates a link back to the previous page after opening the menu.
 
