@@ -8,9 +8,9 @@ tags: [website, python, documentation, quarto, reference]
 
 A first look at Posit's `great-docs`, a Quarto-based documentation site generator for Python packages.
 
-`great-docs` is not a generic [[static-site-generator]] like [[jekyll]] or [[zola]].
+`great-docs` is not a generic [[static-site-generator]] like [[jekyll]] or [[references/zola|Zola]].
 It is narrowly focused on [[python]] package documentation and uses [[quarto]] as its rendering engine.
-The workflow is compact: `great-docs init`, `build`, and `preview` produce a site that includes an auto-generated [[API]] reference, [[Click]] CLI docs, a README landing page, and narrative guides.
+The workflow is compact: `great-docs init`, `build`, and `preview` produce a site that includes an auto-generated [[api|API]] reference, [[python-click|Click]] CLI docs, a README landing page, and narrative guides.
 
 What distinguishes it from other documentation tools:
 

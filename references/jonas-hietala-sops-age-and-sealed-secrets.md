@@ -9,7 +9,7 @@ url: https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/
 
 This is a blog post about secrets in a [[kubernetes]] homelab with a [[gitops]] setup.
 
-It uses the [[references/github-bitnami-labs-sealed-secrets-a-kubernetes-controller-and-tool-for-one-way-encrypted-secrets-github]] and [[references/sops-secrets-operations]] to create encrypted secrets, which are safe to commit.
+It uses the [[references/bitnami-sealed-secrets]] and [[references/sops-secrets-operations]] to create encrypted secrets, which are safe to commit.
 
 The trouble with the sealed secrets operator, is that it can only manage secrets once they are in [[kubernetes]], any bootstrapping secrets must be handled elsewhere.
 This includes the initial secret to spin up the operator, as well as configuring access to the [[git]] repo in the first place.

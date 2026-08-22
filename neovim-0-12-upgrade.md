@@ -11,7 +11,7 @@ There are also some more improvements to supported `lsp` requests.
 
 The release correlates with the archival of `nvim-treesitter`, so there is another blog post coming about how i migrated from it.
 
-[Full neovim news changelog][neovim-news]
+[[references/neovim-0_12|Full neovim news changelog]]
 
 - `vim.pack` | Native plugin manager
 - experimental ui | `ui2`
@@ -108,11 +108,10 @@ Example: `v_in` select inner node, `v_]n` select next node
 
 ## References
 
-- [neovim-news]
+- [[references/neovim-0_12]]
 - [[references/adib-hanna-neovim012-whats-new]]
 - [[references/a-guide-to-vim-pack-neovim-built-in-plugin-manager-evgeni-chasnovski]]
 - [[references/refreshing-your-neovim-config-for-0-12-0]]
 - <https://www.youtube.com/watch?v=xSiQP23ZZhI>
 - <https://neovim.io/doc/user/deprecated/#_deprecated-in-0.12>
 
-[neovim-news]: [[references/neovim-0_12]]

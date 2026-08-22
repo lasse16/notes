@@ -7,7 +7,7 @@ url: https://github.com/bahdotsh/wrkflw?ref=terminaltrove
 
 # GitHub - bahdotsh/wrkflw
 
-A [[TUI]] for interacting with Github workflows, and local emulation of the github context.
+A [[tui|TUI]] for interacting with Github workflows, and local emulation of the github context.
 
 ## References
 

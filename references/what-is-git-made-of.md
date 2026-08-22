@@ -7,7 +7,7 @@ url: https://zserge.com/posts/git/
 
 # What is Git made of?
 
-A post intro-specting [[git]] and rebuilding it in [[go-lang]].
+A post intro-specting [[git]] and rebuilding it in [[go]].
 
 It explains objects and their hashing in git.
 

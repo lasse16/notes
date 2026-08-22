@@ -11,7 +11,7 @@ A programming technique, in which objects used in functions are injected as para
 This has the advantage, that these objects and the dependency on them are clearly documented.
 Also these can easily be mocked for testing.
 
-Common examples include [http clients](http) or loggers.
+Common examples include [[http|http clients]] or loggers.
 
 It is part of the [SOLID](solid-design-principles) design principles.
 

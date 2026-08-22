@@ -6,7 +6,7 @@ tags: [ git, todo ]
 
 # Git: bisect
 
-A built-in [[git]] tool, which iteratively checks out commits to allow [regression testing](regression-testing) on each commit.
+A built-in [[git]] tool, which iteratively checks out commits to allow [[regression-testing|regression testing]] on each commit.
 
 ## Basics
 

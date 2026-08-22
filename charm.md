@@ -8,7 +8,7 @@ tags: [ cli, go-lang ]
 
 An ecosystem for writing [[cli]] apps in [[go]].
 
-There are libraries for [[UI]] components, forms, styling, ssh, animations and logging.
+There are libraries for [[ui|UI]] components, forms, styling, ssh, animations and logging.
 
 And more apps built on-top of this ecosystem.
 
