@@ -53,14 +53,19 @@ full-text:
 @housekeeping:
     echo "NOTEBOOK Housekeeping"
     echo "---------------------"
+    echo ""
     echo "Untagged notes:"
-    zk list --tagless --format path --no-pager --quiet
+    echo ""
+    zk list --tagless --format path --no-pager --exclude AGENTS.md
     echo ""
     echo "Dead links:"
+    echo ""
     zk dead-links
     echo ""
     echo "Potential links:"
+    echo ""
     zk list --quiet --format path --delimiter0 $@ | xargs -0 zk unlinked-mentions
     echo ""
     echo "Unfinished notes"
-    zk list --tag "todo"
+    echo ""
+    zk list --tag "todo" --no-pager --format path
