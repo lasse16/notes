@@ -14,6 +14,17 @@ This tedious *book-keeping* is done by the LLM, while the actual source selectio
 The LLM supports with the *book-keeping*, which also works as the occasional linting, but can also advise and write down when ingesting a new source.
 Ingesting a new source is the event at which all updating of other wiki pages should happen, so having the LLMs support during highlighting the important parts of the new source should help when keeping links fresh.
 
+The LLM basically has three skills, *ingest*, *query*, *lint*.
+
+Ingesting gets a source and compiles its main points into raw sources, which can be used for any future reasoning.
+
+This future reasoning is the *query* skill.
+It answers questions with reasoning based on the information from ingested sources.
+Any information gained by querying, can be stored in general notes, and used to update the information from the sources.
+
+The last skill of *linting* is the general book-keeping and reference-maintaining needed for the existence of a wiki.
+The stuff that usually makes you fail a wiki, because the administrative effort gets too large.
+
 ## References
 
 <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f>
